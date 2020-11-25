@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactKlite/static/css/main.bd0069d3.chunk.css",
+    "main.js": "/reactKlite/static/js/main.afd98883.chunk.js",
+    "main.js.map": "/reactKlite/static/js/main.afd98883.chunk.js.map",
+    "runtime-main.js": "/reactKlite/static/js/runtime-main.1799d57d.js",
+    "runtime-main.js.map": "/reactKlite/static/js/runtime-main.1799d57d.js.map",
+    "static/css/2.07725c36.chunk.css": "/reactKlite/static/css/2.07725c36.chunk.css",
+    "static/js/2.d1996597.chunk.js": "/reactKlite/static/js/2.d1996597.chunk.js",
+    "static/js/2.d1996597.chunk.js.map": "/reactKlite/static/js/2.d1996597.chunk.js.map",
+    "index.html": "/reactKlite/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/reactKlite/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.bd0069d3.chunk.css.map": "/reactKlite/static/css/main.bd0069d3.chunk.css.map",
+    "static/js/2.d1996597.chunk.js.LICENSE.txt": "/reactKlite/static/js/2.d1996597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1799d57d.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.d1996597.chunk.js",
+    "static/css/main.bd0069d3.chunk.css",
+    "static/js/main.afd98883.chunk.js"
+  ]
+}
