@@ -1,5 +1,5 @@
 import React from "react";
-//import "./slider.scss";
+import "./slider.scss";
 
 /*function Home(){
     let Arr = [1, 2, 3, 4, 5]; 
